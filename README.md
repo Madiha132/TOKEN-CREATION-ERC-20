@@ -57,5 +57,6 @@ This project implements a custom ERC-20 token in Solidity. The contract follows 
   
   Task2:
 
-  <img width="363" alt="Screenshot 2025-02-26 081412" src="https://github.com/user-attachments/assets/f8a4d7a8-ba19-467d-9583-f49f89aaf471" />
+  ![output2](https://github.com/user-attachments/assets/85c16e78-40c6-4e38-89c9-fc6c21af9477)
+
   
